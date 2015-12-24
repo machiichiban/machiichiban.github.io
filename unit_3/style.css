@@ -1,0 +1,7 @@
+figure {
+  display: block;
+  float: left;
+  width: 33.333%;
+  height: 150px;
+  overflow: hidden;
+}
