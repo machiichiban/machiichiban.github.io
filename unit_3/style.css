@@ -14,13 +14,10 @@ figure {
   display: block;
   float: left;
   width: 33.333%;
-  height: 200;
+  height: auto;
   overflow: hidden;
   padding-bottom: 33.333%; 
 }
 figure img { 
 	width: 100%; height: auto; 
-}
-body {
-	background-image: url(../images/splash1.jpg);
 }
