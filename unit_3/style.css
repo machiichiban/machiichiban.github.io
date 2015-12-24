@@ -5,3 +5,6 @@ figure {
   height: 150px;
   overflow: hidden;
 }
+body {
+	background-image: url(../images/splash.jpg);
+}
