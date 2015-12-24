@@ -7,11 +7,9 @@
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
-
 header img { 
 	width: 100%; height: auto; 
 }
-
 figure {
   display: block;
   float: left;
@@ -20,12 +18,9 @@ figure {
   overflow: hidden;
   padding-bottom: 33.333%; 
 }
-
 figure img { 
 	width: 100%; height: auto; 
 }
-
 body {
 	background-image: url(../images/splash1.jpg);
 }
-
