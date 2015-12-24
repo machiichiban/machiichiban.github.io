@@ -8,7 +8,7 @@
 	box-sizing: border-box;
 }
 header img { 
-	width: 100%; height: auto; 
+	width: 100%; max-height: 300; 
 }
 figure {
   display: block;
@@ -19,5 +19,5 @@ figure {
   padding-bottom: 33.333%; 
 }
 figure img { 
-	width: 100%; height: auto; 
+	width: 100%; max-height: 200; 
 }
