@@ -8,12 +8,20 @@
 	box-sizing: border-box; 
 }
 
+header img { 
+	width: 100%; height: auto; 
+}
+
 figure {
   display: block;
   float: left;
   width: 33.333%;
   height: 200px;
   overflow: hidden;
+}
+
+figure img { 
+	width: 100%; height: auto; 
 }
 
 body {
