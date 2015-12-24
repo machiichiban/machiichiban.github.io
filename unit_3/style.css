@@ -16,8 +16,9 @@ figure {
   display: block;
   float: left;
   width: 33.333%;
-  height: 200px;
+  height: 0px;
   overflow: hidden;
+  padding-bottom: 33.333%; 
 }
 
 figure img { 
