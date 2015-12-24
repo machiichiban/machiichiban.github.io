@@ -12,7 +12,7 @@ header img {
 }
 figure {
   display: block;
-  float: centre;
+  float: left;
   width: 33.333%;
   height: auto;
   overflow: hidden;
