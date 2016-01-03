@@ -9,15 +9,15 @@
 }
 .h1 {
 	text-align: left;
-  	color: #teal;
-  	font-family: Helvetica, monospace;
+  	color: #004c4c;
+  	font-family: Helvetica, sans-serif;
   	font-size: 30px;
   	font-weight: 800;
 }
 .h3 {
 	text-align: left;
-  	color: #teal;
-  	font-family: Helvetica, monospace;
+  	color: #004c4c;
+  	font-family: Helvetica, sans-serif;
   	font-size: 25px;
   	font-weight: 700;
 }
