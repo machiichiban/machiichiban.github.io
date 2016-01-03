@@ -9,7 +9,6 @@
 }
 .h1 {
 	text-align: left;
-	position: absolute;
   	color: white;
   	font-family: Helvetica;
   	font-size: 30px;
@@ -17,15 +16,6 @@
 }
 .h3 {
 	text-align: left;
-	position: absolute;
-  	color: black;
-  	font-family: Helvetica;
-  	font-size: 25px;
-  	font-weight: 700;
-}
-.h2 {
-	text-align: right;
-	position: absolute;
   	color: black;
   	font-family: Helvetica;
   	font-size: 25px;
@@ -39,13 +29,13 @@ figure {
   display: block;
   float: left;
   width: 33.333%;
-  height: auto;
+  height: 33.333%;
   overflow: hidden;
   padding-bottom: 33.333%; 
 }
 figure img { 
 	width: 100%; 
-	height: auto;
+	height: 33.333%;
 	display: block;  
 	overflow: hidden;
 	padding-bottom: 33.333%; 
