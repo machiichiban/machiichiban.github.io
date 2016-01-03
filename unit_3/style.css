@@ -7,6 +7,20 @@
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 }
+.h1 {
+	text-align: left;
+  	color: white;
+  	font-family: Helvetica;
+  	font-size: 30px;
+  	font-weight: 800;
+}
+.h3 {
+	text-align: left;
+  	color: black;
+  	font-family: Helvetica;
+  	font-size: 25px;
+  	font-weight: 700;
+}
 header img { 
 	width: 100%; 
 	height: auto; 
