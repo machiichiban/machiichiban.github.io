@@ -7,12 +7,6 @@ header {
     padding: 20px;
 }
 
-header {
-    background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
-}
-
 nav {
     background-color: #E8C66A;
     border: 1px black solid;
@@ -32,7 +26,7 @@ article {
 }
 
 footer {
-    background-color: #E89C6C;
+    background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
 }
