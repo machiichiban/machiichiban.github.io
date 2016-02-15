@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+header {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+div {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+body {
+	text-align: left;
+  	color: #004c4c;
+  	font-family: 'Roboto', sans-serif;
+  	font-size: 25px;
+  	font-weight: 700;
+  	margin-left: 40px;
+}
+
+p {
+	text-align: left;
+  	color: #004c4c;
+ 	font-family: 'Roboto', Helvetica, sans-serif;
+  	font-size: 20px;
+  	font-weight: 300;
+    margin-right: 40px;
+    margin-left: 40px;
+    max-width: 750px;
+    text-align: left;
+    line-height:120%;
+}
