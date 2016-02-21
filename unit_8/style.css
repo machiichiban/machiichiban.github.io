@@ -202,7 +202,7 @@ div img {
   display: block;
   }
 .sample {
-   margin: .5em .5em .5em .5em;
+   margin: .5em;
    height: 50%;
    border-radius: 10px;
    display: block;
@@ -214,7 +214,7 @@ div img {
     background-color: rgba(255,255,255,0.8);
     width: 80%;
     border-radius: 10px;
-    margin: .3em;
+    margin: .5em;
     padding: 1em .5em .5em .5em;
     line-height: 0.7em;
   }
@@ -240,21 +240,24 @@ div img {
   }
   .wrapper {
   display: block;
+  width: auto;
+  margin-top: 8em;
   }
   .sample {
-     margin: .5em .5em .5em .5em;
+     margin: .5em;
      height: 50%;
      border-radius: 10px;
      display: block;
      float: none;
+     width: 90%;
     }
   .info {
       display: block;
       float: none;
+      width: 90%;
       background-color: rgba(255,255,255,0.8);
-      width: 80%;
       border-radius: 10px;
-      margin: .3em;
+      margin: .5em;
       padding: 1em .5em .5em .5em;
       line-height: 0.7em;
     }
