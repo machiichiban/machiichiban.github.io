@@ -221,26 +221,25 @@ div img {
 }
 
 @media only screen and (max-width: 480px) {
-  h1, nav {
-      display: block;
-      text-align: right;
-    }
-    h2 {
-      font-size: 1em;
-      display: inline;
-    }
-    p, ul {
-      margin: 1.8em .6em 0;
-    }
-    nav a {
-      margin: 0 1em 1em;
-    }
-    img {
-      width: 80%;
-    }
-    div {
-    width: 100%;
-    padding: .6em;
+  nav {
+    float: none;
+    display: block;
+    text-align:right;
+  } 
+  nav, aside {
+    float: left;
+    font-size: 1em;
+    line-height: 1.4em;
+    display: inline-block;
+    margin: 1.5em;  
+    max-width: 90%
+  }
+  h4 {
+    display: block;
+    margin: 1.2em;
+  }
+  .wrapper {
+  display: block;
   }
   .sample {
      margin: .5em .5em .5em .5em;
