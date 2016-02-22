@@ -237,7 +237,10 @@ div img {
     font-size: 1em;
     line-height: 1.4em;
     display: inline-block;
-    margin: 1.5em;
+    margin: .5em;
+    position: absolute;
+    top: 60%;
+    left: 2%;
   }
   h4 {
     display: block;
