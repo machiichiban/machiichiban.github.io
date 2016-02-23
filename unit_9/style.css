@@ -596,7 +596,12 @@ div img {
   }
 
 @media only screen and (max-width: 320px) {
-   .sunnies {
+  aside {
+    float: left;
+    font-size: .8em;
+    margin-right: 0;
+  }
+  .sunnies {
     min-width: 270px;
     margin-left: 10px;
   }
