@@ -50,7 +50,7 @@ a:hover {
 .thumb {
     display: inline-block;
     width: 33.33%;
-    height: 300px;
+    height: 380px;
     background-position: center center;
     background-size: cover;
 }
@@ -190,6 +190,25 @@ div img {
    background: #25fad7;
    }
 
+@media only screen and (max-width: 1200px) { 
+.thumb {
+    display: inline-block;
+    width: 33.33%;
+    height: 350px;
+    background-position: center center;
+    background-size: cover;  
+  }  
+}
+
+@media only screen and (max-width: 1100px) { 
+.thumb {
+    display: inline-block;
+    width: 33.33%;
+    height: 340px;
+    background-position: center center;
+    background-size: cover;  
+  }  
+}
 
 @media only screen and (max-width: 930px) { 
   .nav-links {
@@ -211,7 +230,7 @@ div img {
 .thumb {
     display: inline-block;
     width: 33.33%;
-    height: 300px;
+    height: 330px;
     background-position: center center;
     background-size: cover;  
   }  
