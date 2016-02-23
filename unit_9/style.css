@@ -453,13 +453,12 @@ div img {
     display: block;
     margin-top: 2em;
   }
-}
   aside {
     float: left;
     font-size: .9em;
     line-height: 1.8em;
     display: inline-block; 
-    max-width: 100%
+    max-width: 100%;
 }
   .splash1 {
     background: url(images/splash1_crop.jpg) no-repeat center center fixed; 
