@@ -592,5 +592,12 @@ div img {
     display: inline-block;
     width: 90%;
     min-width: 300px;
+    margin-left: 20px;
+  }
+
+@media only screen and (max-width: 320px) {
+   .sunnies {
+    min-width: 270px;
+    margin-left: 10px;
   }
 }
